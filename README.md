@@ -22,19 +22,23 @@ Il est actuellement dédié au **USB Rubber Ducky**, mais sera progressivement �
 
 ---
 
+## 📁 Structure
+
+[Rubber Ducky](Rubber%20Ducky/)
+
+---
+
 ## 🦆 USB Rubber Ducky
 
 Le **Rubber Ducky** est un dispositif d’injection HID capable d’exécuter des frappes clavier automatisées à très haute vitesse.  
 Tous les payloads de ce répertoire utilisent **DuckyScript 3.0**, la dernière version du langage développé par Hak5.
 
-### 📁 Structure
-
-rubber-ducky/
 
 ### 🔧 Prérequis
 
 - Rubber Ducky (2023+)
-- [Hak5 Payload Generator](https://ducktoolkit.com/) ou encodeur local
+- IDE ou editeur de texte.
+- Encodeur
 - PC cible sous Windows/macOS/Linux
 
 ---
