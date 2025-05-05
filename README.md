@@ -37,7 +37,7 @@ Tous les payloads de ce répertoire utilisent **DuckyScript 3.0**, la dernière 
 ### 🔧 Prérequis
 
 - Rubber Ducky (2023+)
-- IDE ou editeur de texte. [Ide officiel de Hak5](https://payloadstudio.com/community/)
+- IDE ou editeur de texte. [IDE officiel de Hak5](https://payloadstudio.com/community/)
 - Encodeur
 - PC cible sous Windows/macOS/Linux
 
