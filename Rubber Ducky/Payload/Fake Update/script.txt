@@ -1,0 +1,7 @@
+GUI r
+DELAY 500
+STRING iexplore http://fakeupdate.net/win10ue
+DELAY 500
+ENTER
+DELAY 500
+F11
