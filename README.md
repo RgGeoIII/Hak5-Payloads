@@ -1,7 +1,7 @@
-# 🦆 Hack5 Payloads Repository
+# 🦆 Hak5 Payloads Repository
 
-Ce dépôt GitHub regroupe mes payloads et scripts personnalisés pour les dispositifs de la gamme **Hack5**.  
-Il est actuellement dédié au **USB Rubber Ducky**, mais sera progressivement étendu à l'ensemble des outils Hack5.
+Ce dépôt GitHub regroupe mes payloads et scripts personnalisés pour les dispositifs de la gamme **Hak5**.  
+Il est actuellement dédié au **USB Rubber Ducky**, mais sera progressivement étendu à l'ensemble des outils Hak5.
 
 ---
 
@@ -25,7 +25,7 @@ Il est actuellement dédié au **USB Rubber Ducky**, mais sera progressivement �
 ## 🦆 USB Rubber Ducky
 
 Le **Rubber Ducky** est un dispositif d’injection HID capable d’exécuter des frappes clavier automatisées à très haute vitesse.  
-Tous les payloads de ce répertoire utilisent **DuckyScript 3.0**, la dernière version du langage développé par Hack5.
+Tous les payloads de ce répertoire utilisent **DuckyScript 3.0**, la dernière version du langage développé par Hak5.
 
 ### 📁 Structure
 
@@ -34,7 +34,7 @@ rubber-ducky/
 ### 🔧 Prérequis
 
 - Rubber Ducky (2023+)
-- [Hack5 Payload Generator](https://ducktoolkit.com/) ou encodeur local
+- [Hak5 Payload Generator](https://ducktoolkit.com/) ou encodeur local
 - PC cible sous Windows/macOS/Linux
 
 ---
@@ -64,10 +64,10 @@ Pour toute suggestion, question ou collaboration :
 
 ## 🧠 Ressources
 
-- [Documentation DuckyScript 3.0]([https://docs.Hack5.org/hc/en-us/categories/8880938525591-USB-Rubber-Ducky](https://docs.hak5.org/hak5-docs))
-- [Hack5 Payload Library](https://github.com/Hack5/usbrubberducky-payloads)
-- [Hack5 Payload Hub](https://payloadhub.com/blogs/payloads)
-- [Hack5 Shop](https://shop.Hack5.org/)
+- [Documentation DuckyScript 3.0]([https://docs.Hak5.org/hc/en-us/categories/8880938525591-USB-Rubber-Ducky](https://docs.hak5.org/hak5-docs))
+- [Hak5 Payload Library](https://github.com/Hak5/usbrubberducky-payloads)
+- [Hak5 Payload Hub](https://payloadhub.com/blogs/payloads)
+- [Hak5 Shop](https://shop.Hak5.org/)
 
 ---
 
